@@ -21,7 +21,6 @@ The above services the query for:
 <center>
     <img src="screenshots/1.png"><br>
     <img src="screenshots/2.png"><br>
-    <img src="screenshots/3.png">
 </center>
 <br>
 
